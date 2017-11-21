@@ -1,4 +1,19 @@
-// TuringMachine.cpp : Defines the entry point for the console application.
+// This file contains main()
+// Turing Machine Simulator
+//
+// Michael Wilkie
+// I made this program to see if I could create a turing machine. 
+// Since turing machines are coupled with state diagrams, a graph class
+// was added.
+//
+// Logic of the simulator:
+// 
+// Load/Create state diagram -> new Graph
+// Test if words are in the language -> new TM
+// Save/Close graph to text file -> program end
+//
+// It is not recommended that you copy the code if you are trying to learn about
+// graphs.
 //
 
 #include "stdafx.h"
@@ -14,7 +29,6 @@
 #include "Node.h"
 
 using namespace std;
-
 
 bool String_to_Bool(string &input)
 {

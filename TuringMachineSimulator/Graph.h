@@ -1,3 +1,12 @@
+/*
+	Graph.h
+	Michael Wilkie
+
+	Graph class.
+	Represented by vector of linked lists.
+	vector<string> AcceptState is only part of the turing machine implementation of the program.
+
+*/
 #pragma once
 #include <vector>
 #include <list>

@@ -1,3 +1,10 @@
+/*
+	TM.h
+	Michael Wilkie
+
+	Turing Machine header class.
+
+*/
 #pragma once
 #include <vector>
 #include <string>

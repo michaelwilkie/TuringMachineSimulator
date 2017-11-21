@@ -1,3 +1,10 @@
+/*
+	TM.cpp
+
+	Michael Wilkie
+	Logic of the turing machine when it reads in characters.
+	The start and end of any tape read in are hard-coded to be '-'
+*/
 #include <iostream>
 #include <vector>
 #include <string>
