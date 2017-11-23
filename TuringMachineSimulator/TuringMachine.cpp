@@ -15,7 +15,7 @@
 // It is not recommended that you copy the code if you are trying to learn about
 // graphs.
 //
-
+#include <stdafx.h>
 #include <Windows.h>
 #include <vector>
 #include <string>
