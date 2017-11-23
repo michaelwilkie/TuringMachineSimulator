@@ -16,7 +16,6 @@
 // graphs.
 //
 
-#include "stdafx.h"
 #include <Windows.h>
 #include <vector>
 #include <string>
